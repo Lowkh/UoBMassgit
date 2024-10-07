@@ -1,1 +1,1 @@
-hello i am commiting a crime
+hello i am learning how to use git
